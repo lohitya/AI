@@ -1,4 +1,4 @@
-# Customer Feedback Summarizer with Google Apps Script and Vertex AI
+# Customer Feedback Summarizer with Google Apps Script and Gemini AI
 
 This project automates summarizing customer feedback collected via Google Forms using Google's Vertex AI (Gemini) and Google Apps Script.
 
@@ -12,7 +12,7 @@ I wanted to streamline this process and make it more useful for real-world busin
 
 - Customers fill out 3–4 feedback questions via a Google Form.
 - Responses go to Google Sheets.
-- A Google Apps Script processes the feedback weekly, generates a professional summary using Google Vertex AI (Gemini), and emails it to the owner.
+- A Google Apps Script processes the feedback weekly, generates a professional summary using Google AI (Gemini), and emails it to the owner.
 
 This gives small business owners clear, actionable insights about their store performance—without the manual work.
 
@@ -20,7 +20,7 @@ This gives small business owners clear, actionable insights about their store pe
 
 ## Features
 - Collects feedback automatically via Google Forms.
-- Uses Vertex AI Gemini model to generate:
+- Uses AI Gemini model to generate:
   - Positive feedback themes
   - Suggested improvements
   - Overall sentiment
